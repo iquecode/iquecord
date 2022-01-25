@@ -1,0 +1,21 @@
+Imersão React
+
+https://pt-br.reactjs.org/
+https://nextjs.org/docs
+
+
+
+
+sudo npm install yarn -g
+
+
+cria o package.josn
+yarn init -y
+
+
+https://github.com/nvm-sh/nvm
+
+
+styled jsx - next
+
+yarn add @skynexui/components
